@@ -1,0 +1,43 @@
+```
+[StudentName]_GPU_FinOps_Submission/
+├── report.pdf                          # Báo cáo phân tích (nếu có yêu cầu)
+├── screenshots/
+│   ├── part1_cluster_monitoring.png
+│   ├── part2_workload_submission.png
+│   ├── part2_billing_summary.png
+│   ├── part3_spot_pricing.png
+│   ├── part3_spot_request.png
+│   ├── part3_spot_preemption.png
+│   ├── part4_autoscaler_policy.png
+│   ├── part4_autoscaler_evaluation.png
+│   ├── part5_cost_snapshots.png
+│   ├── part5_waste_report.png
+│   ├── part5_recommendations.png
+│   ├── part5_dashboard.png
+│   ├── part6_cost_breakdown_viz.png
+│   ├── part6_timeseries_viz.png
+│   ├── part7_full_workflow.png
+│   ├── part8_gpu_detection.png
+│   ├── part8_gpu_metrics_diagnostic.png
+│   ├── part8_fp32_summary.png
+│   ├── part8_amp_summary.png
+│   ├── part8_fp32_vs_amp_comparison.png
+│   ├── part8_real_gpu_cost_report.png
+│   ├── part85_multi_gpu_analysis.png
+│   ├── part85_project_forecast.png
+│   ├── part85_optimization_analysis.png
+│   ├── part85_integrated_dashboard.png
+│   └── part85_challenge_strategy.png
+├── generated_charts/
+│   ├── finops_cost_breakdown.png
+│   ├── finops_timeseries.png
+│   ├── real_gpu_comparison.png
+│   ├── real_gpu_telemetry.png          (nếu có)
+│   ├── cost_per_epoch.png
+│   ├── multi_gpu_scaling.png
+│   ├── project_forecast.png
+│   ├── optimization_roadmap.png
+│   └── advanced_finops_dashboard.png
+└── notebook/
+    └── gpu_finops_lab.ipynb            # Notebook đã chạy hoàn chỉnh
+```
